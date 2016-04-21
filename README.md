@@ -17,3 +17,12 @@ de Google (o libro) en formato Json.
 
 @param cell {string}  Identificador de celda. (Opcional) Ejem: 'A1:B2'
 
+## Demostración
+
+<a href="https://docs.google.com/spreadsheets/d/1qZZMIcp-tzTEdaY4-jiIGaix8fzfJ5_FNx4yN4NqwA4/edit#gid=0" target="_blank">
+Hoja de cálculo de ejemplo
+</a>
+
+<a href="https://script.google.com/macros/s/AKfycbzRM_8BKj3S2nnkR_N5xbQD6eFNgPMXFcY82hI-S7XZ/dev?id=1qZZMIcp-tzTEdaY4-jiIGaix8fzfJ5_FNx4yN4NqwA4&sheet=Apps">Obtener la hoja de cálculo en formato JSON</a>
+
+<a href=""></a>
