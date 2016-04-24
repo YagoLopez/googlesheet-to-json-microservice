@@ -23,6 +23,6 @@ de Google (o libro) en formato Json.
 Hoja de cálculo de ejemplo
 </a>
 
-- <a href="https://script.google.com/macros/s/AKfycbzRM_8BKj3S2nnkR_N5xbQD6eFNgPMXFcY82hI-S7XZ/dev?id=1qZZMIcp-tzTEdaY4-jiIGaix8fzfJ5_FNx4yN4NqwA4&sheet=Apps">Obtener la hoja de cálculo en formato JSON</a>
+- <a href="https://script.google.com/macros/s/AKfycbzWuYmrlWzjpl3zEd9y2nqKeXLE12K_YzrWNihQscIwXEMhG9K4/exec?id=1qZZMIcp-tzTEdaY4-jiIGaix8fzfJ5_FNx4yN4NqwA4&sheet=Apps">Obtener la hoja de cálculo en formato JSON</a>
 
 <a href=""></a>
