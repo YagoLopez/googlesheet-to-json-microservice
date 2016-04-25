@@ -91,20 +91,17 @@ function convert_(value) {
 
 
 function getDataRows_(ss, sheetname) {
-  
   var sh = ss.getSheetByName(sheetname);
   return sh.getRange(2, 1, sh.getLastRow() - 1, sh.getLastColumn()).getValues();
 }
 
 
 function getHeaderRow_(ss, sheetname) {
-  
   var sh = ss.getSheetByName(sheetname);
   return sh.getRange(1, 1, 1, sh.getLastColumn()).getValues()[0];
 }
   
 function test(){
-  
   var parameters = {id:'1qZZMIcp-tzTEdaY4-jiIGaix8fzfJ5_FNx4yN4NqwA4', sheet: 'Apps'};
   var request = {parameters: parameters};
   var result = doGet(request);
